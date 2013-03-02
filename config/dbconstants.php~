@@ -1,0 +1,6 @@
+<?php
+	$DB_HOST="localhost";
+	$DB_USER="gmail";
+	$DB_PASSWORD="6DpNJSxrnnDJLqHD";
+	$DB_DATABASE="gmail";
+?>
